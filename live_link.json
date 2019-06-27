@@ -2,12 +2,12 @@
 "match":[
     {
 "match_no": "49",
-"teams": "INDIA vs Austreliya",
+"teams": "INDIA vs West Indies",
 "date": "9th June 2019",
 "time": "8:00 PM",
 "venue": "Chennai",
-"link":"http://194.88.104.169:8081/ipl/star1eng_480p/playlist.m3u8",
-"link1":"http://194.88.104.169:8081/ipl/star1eng_480p/playlist.m3u8"
+"link":"http://colorsiptv2.dynu.net:8081/globalbd/colorsbd_starsports1/chunks.m3u8",
+"link1":"http://colorsiptv2.dynu.net:8081/globalbd/colorsbd_starsports1/chunks.m3u8"
  
 }
 
@@ -16,12 +16,12 @@
 
  {
 "match_no": "49",
-"teams": "INDIA vs Austreliya हिंदी ",
+"teams": "INDIA vs West Indies हिंदी ",
 "date": "9th June 2019",
 "time": "8:00 PM",
 "venue": "Chennai",
-"link":"http://194.88.104.169:8081/ipl/star1eng_480p/playlist.m3u8",
-"link1":"http://194.88.104.169:8081/ipl/star1eng_480p/playlist.m3u8"
+"link":"http://colorsiptv2.dynu.net:8081/globalbd/colorsbd_starsports1/chunks.m3u8",
+"link1":"http://colorsiptv2.dynu.net:8081/globalbd/colorsbd_starsports1/chunks.m3u8"
  
 }
 
